@@ -22,9 +22,11 @@ body {
 }
 
 @media (max-width:768px) {
+
   .explanation-pic {
     text-align: center;
   }
+  
 }
 
 .main-block {
